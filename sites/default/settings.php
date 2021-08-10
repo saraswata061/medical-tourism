@@ -797,8 +797,8 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 # }
 $databases['default']['default'] = array (
   'database' => 'medical_tourist',
-  'username' => 'admin',
-  'password' => 'i4ex4inP#Dy$bQ4L',
+  'username' => 'admin3',
+  'password' => 'admin3',
   'prefix' => '',
   'host' => '34.151.83.163',
   'port' => '3306',
